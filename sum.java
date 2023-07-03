@@ -19,5 +19,8 @@ public class sum{
         }
         System.out.println("Sum of the elements of an array:" +total);
 
+        // edited by second person 
+        System.out.println("Average of the elements of the array:"+total/size);
+
     }
 }
